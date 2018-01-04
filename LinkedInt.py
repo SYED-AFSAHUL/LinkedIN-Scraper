@@ -288,9 +288,7 @@ def banner():
 
             print "\033[1;31m%s\033[0;0m" % data
             print "\033[1;34mProviding you with Linkedin Intelligence"
-            print "\033[1;32mAuthor: Vincent Yiu (@vysec, @vysecurity)\033[0;0m"
-            print "\033[1;32mOriginal version by @DisK0nn3cT\033[0;0m"
-
+          
 def authenticate():
     try:
     	a = login()
